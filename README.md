@@ -1,19 +1,37 @@
-# 📊 AnaliseDeDados---PCP | Data Analysis — PCP
+# 📊 Data Analytics Portfolio
 
-> **PT:** Repositório de projetos de análise de dados desenvolvidos com SQL e Power BI, com foco em ambientes industriais e comerciais.  
-> **EN:** Data analysis projects built with SQL and Power BI, focused on industrial and commercial environments.
+Repositório com projetos de análise de dados desenvolvidos utilizando SQL, Power BI e Excel.
+
+Os projetos simulam cenários reais de negócio, aplicando técnicas de Business Intelligence, modelagem de dados e visualização de indicadores para apoiar a tomada de decisão.
+
+Principais temas:
+
+- Business Intelligence
+- Data Analysis
+- SQL
+- Power BI
+- Dashboards
+- KPIs
+- Data Visualization
 
 ---
 
 ## 👤 Autor | Author
 
 **Paulo Wesllem de Queiroz**  
-Analista de PCP | Em transição para Análise de Dados  
-PCP Analyst | Transitioning to Data Analysis
+Assistente de PCP | Power BI | SQL | Data Analytics  
+PCP Assistent | Power BI | SQL | Data Analytics
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-wesllem-de-queiroz-a07791302/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Paulinh01/AnaliseDeDados---PCP)
 
+## 👨‍💻 Sobre
+
+Atualmente atuo na área de Planejamento e Controle da Produção (PCP), desenvolvendo dashboards e análises que apoiam decisões operacionais em ambiente industrial.
+
+Tenho direcionado meus estudos para Data Analytics, Business Intelligence e Engenharia de Dados, buscando aplicar SQL, Power BI e Python na resolução de problemas de negócio.
+
+Este repositório reúne projetos desenvolvidos durante minha formação e estudos práticos.
 ---
 
 ## 🛠️ Ferramentas | Tools
@@ -159,13 +177,13 @@ ORDER BY TotalVendasQuantitativa DESC
 
 ---
 
-## 📈 Roadmap de estudos | Learning Roadmap
+## 📈 Current Learning Journey | Learning Roadmap
 
 | Skill | Status |
 |---|---|
 | Excel Avançado | ✅ Concluído |
 | Power BI + DAX | ✅ Concluído |
-| SQL Fundamentos | 🔄 Em andamento |
+| SQL Fundamentos | ✅ Concluído |
 | Python para Dados | 🔲 Próxima etapa |
 | Git & GitHub | 🔄 Em andamento |
 
